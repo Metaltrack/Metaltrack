@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Metaltrack
-- 👀 I’m interested in Programming ofcourse
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on GUI and game development
+- 👀 I’m looking to be the cool developer
+- 🌱 I’m currently learning a lot of things (OpenGL, Unity, GLSL, React)
+- 💞️ I’m looking for fellow Game Developers like me!!
 
 <!---
 Metaltrack/Metaltrack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
